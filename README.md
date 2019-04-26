@@ -20,5 +20,5 @@ Basic python script to add or delete ip from firewall rules.
 
 ### Nice to have
 
-- [x] Use iptables
-- [x] Validate input ip [ipv4 validation]
+- [] Use iptables
+- [] Validate input ip [ipv4 validation]
