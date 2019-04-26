@@ -121,9 +121,7 @@ else:
 
 
 
-
-
- #ip.change_ip('192.168.3.4')
- #python fw.py --ip 192.168.1.1
- #/media/sf_code# python fw.py --ip 192.168.1.202
+# Pass the ip as arguments in command line
+# python fw.py --ip 192.168.1.202
+# python fw.py --delete 192.168.1.202
 
