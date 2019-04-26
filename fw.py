@@ -1,10 +1,7 @@
 
 import sys
 import os
-"""
-2. Write a python script to lock down the local firewall (preference for Mac/Linux) for all connections except from/to a single IP address that can be changed if needed. 
-Also create the reverse script that puts the local firewall back into its original state.
-"""
+
 class FireWall:
 
     def __init__(self):
