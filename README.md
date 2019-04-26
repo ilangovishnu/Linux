@@ -22,3 +22,13 @@ Basic python script to add or delete ip from firewall rules.
 
 - [] Use iptables
 - [] Validate input ip [ipv4 validation]
+
+
+![](https://i.imgur.com/TXc5Cm7.png)
+
+###Set Rule <br>
+![](https://i.imgur.com/ppTZDTu.png)
+
+
+###Delete Rule <br>
+![](https://i.imgur.com/Z2XteJp.png)
